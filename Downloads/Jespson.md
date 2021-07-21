@@ -21,3 +21,5 @@
 ## App 
 
 - a user of the role Author is able to upload a podcast and write blog similar to the substack . it is a media station for personalities to grow their brand as their also a scheduling feature. A normal user can subscribe to these users and view new post. there will be notification to notify something new has be posted
+
+- a daily betting app using blockain 
